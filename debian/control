@@ -1,0 +1,12 @@
+Source: geo
+Section: python
+Priority: optional
+Maintainer: SciNova <scinovasystems@gmail.com>
+Build-Depends: debhelper-compat (= 13), dh-python, python3-all
+Standards-Version: 4.6.2
+
+Package: python3-geo
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: Geo utilities
+ Location distance/bearing calculations and a catalog of known places.
