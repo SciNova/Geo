@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python-geo"
-version = "0.1"
+version = "0.2"
 description = "Geo utilities — location distance/bearing, and a catalog of known places"
 readme = { text = "Geo utilities — location distance/bearing, and a catalog of known places.", content-type = "text/plain" }
 license = "GPL-3.0-or-later"
